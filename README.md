@@ -1,4 +1,4 @@
-# Solving-a-system-of-equations
+# Solving a system of equations
 4 methods for calculating the system of equations are implemented:
 - Gauss method (LUP)
 - QR decomposition
